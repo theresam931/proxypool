@@ -42,6 +42,9 @@
 - type: subscribe
   options:
     url: https://vpn-3.xyz/link/yjddDnnWjIFjn888?sub=1
+- type: subscribe
+  options:
+    url: https://yukimo-link.xyz/link/90ixSszrq8125BOe?mu=1
 # 网页模糊抓取
 - type: webfuzz
   options:
