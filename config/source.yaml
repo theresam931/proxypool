@@ -30,6 +30,9 @@
 - type: subscribe
   options:
     url: https://dingyue.suying666.info/link/qYopsRimEzj5qZwv?sub=1
+    - type: subscribe
+  options:
+    url: https://losadhwselfff2332dasd.xyz/link/S8Qoaohp3jBavLRu?sub=1
     
 # 网页模糊抓取
 - type: webfuzz
