@@ -2,7 +2,9 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
-
+- type: webfuzzsub
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/shadowsocks
 # 订阅链接
 - type: subscribe
   options:
