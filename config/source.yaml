@@ -16,6 +16,19 @@
 - type: subscribe
   options:
     url: https://thirsty-galileo-395801.netlify.app
+- type: subscribe
+  options:
+    url: https://sub.huojian987.site/link/rMbHxZusF1XGXXad?sub=3
+- type: subscribe
+  options:
+    url: https://kkkssr.xyz//link/K5pwQwMMoeWguVNV?sub=1
+- type: subscribe
+  options:
+    url: https://sub.prprc.xyz/link/heJdxuEK1sErsCEi?sub=1&class=3
+- type: subscribe
+  options:
+    url: https://dingyue.suying666.info/link/qYopsRimEzj5qZwv?sub=1
+    
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -30,6 +43,7 @@
   options:
     channel: sharecentre
     num: 200
+    
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
