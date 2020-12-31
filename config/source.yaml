@@ -33,7 +33,15 @@
 - type: subscribe
   options:
     url: https://mnssr.cc/link/MAjMvCj8LiOceuSW?sub=1&extend=1
-    
+- type: subscribe
+  options:
+    url: https://xueyun.club/link/PQyKpjZ2PDlaqjwM?sub=1    
+- type: subscribe
+  options:
+    url: https://nnn3ro.link/link/FxZILJnjXAWPwKpG?sub=1
+- type: subscribe
+  options:
+    url: https://vpn-3.xyz/link/yjddDnnWjIFjn888?sub=1
 # 网页模糊抓取
 - type: webfuzz
   options:
