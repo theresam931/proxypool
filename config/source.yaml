@@ -45,6 +45,21 @@
 - type: subscribe
   options:
     url: https://yukimo-link.xyz/link/90ixSszrq8125BOe?mu=1
+- type: subscribe
+  options:
+    url: https://rss.paoluz.xyz/link/4k95cuWKQRFhprFm?sub=3&extend=1
+- type: subscribe
+  options:
+    url: https://esucloud.com/link/Ms0rSs8opNU3cxdh?list=shadowrocket
+- type: subscribe
+  options:
+    url: https://dingyue.suying666.info/link/z0XApyHKfdRp22kH?sub=1
+- type: subscribe
+  options:
+    url: https://kitevpn.me/api/v1/client/subscribe?token=728eb7182f1504e6d2273e9015a8f9a1
+- type: subscribe
+  options:
+    url: https://sub.starlink9527.xyz/api/v1/client/subscribe?token=c65f88c52825eba773f1541d025cce76
 # 网页模糊抓取
 - type: webfuzz
   options:
