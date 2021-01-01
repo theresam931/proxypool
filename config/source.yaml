@@ -60,6 +60,9 @@
 - type: subscribe
   options:
     url: https://sub.starlink9527.xyz/api/v1/client/subscribe?token=c65f88c52825eba773f1541d025cce76
+- type: subscribe
+  options:
+    url: https://sub.tomato91.cc/api/v1/client/subscribe?token=eafc52714775c7ded242c1c5e4232085
 # 网页模糊抓取
 - type: webfuzz
   options:
