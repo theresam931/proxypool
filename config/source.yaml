@@ -81,6 +81,10 @@
 - type: subscribe
   options:
     url: https://acrosscloud.icu//link/zuGvQj5PkKucpVP9?sub=1
+- type: subscribe
+  options:
+    url: https://rss.cnrss.xyz/link/W9HNbTFobmNmqUVc?mu=2    
+
 #订阅
 # 网页模糊抓取
 - type: webfuzz
@@ -109,6 +113,9 @@
 - type: clash
   options:
     url: https://suo.yt/vcQXNNo
+ - type: clash
+  options:
+    url: http://r6d.cn/WT2M       
 
 # 某个网站抓取
 - type: web-freessrxyz
