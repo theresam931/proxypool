@@ -84,7 +84,12 @@
 - type: subscribe
   options:
     url: https://rss.cnrss.xyz/link/W9HNbTFobmNmqUVc?mu=2    
-
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/shadowsocks
+- type: subscribe
+  options:
+    url: http://proxypool.turinglabs.net/upload/daily/v2ray    
 #订阅
 # 网页模糊抓取
 - type: webfuzz
@@ -109,7 +114,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://suo.yt/IYe65QS
 
 # 某个网站抓取
 - type: web-freessrxyz
