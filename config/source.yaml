@@ -63,6 +63,25 @@
 - type: subscribe
   options:
     url: https://sub.tomato91.cc/api/v1/client/subscribe?token=eafc52714775c7ded242c1c5e4232085
+- type: subscribe
+  options:
+    url: http://www.paoche.cf/api/v1/client/subscribe?token=Trs5YhJddF26wMM6Vqf4f34UDBpzxkuF
+- type: subscribe
+  options:
+    url: https://www.ov2rayo.top/api/v1/client/subscribe?token=3821f84ba4348ee9850582f3da676587
+- type: subscribe
+  options:
+    url: https://www.gogocloud.icu/api/v1/client/subscribe?token=b4ef86e54459c4f6326b69dad5b98d8f
+- type: subscribe
+  options:
+    url: https://yangzhichang.buzz/api/v1/client/subscribe?token=d8f3c77da6f83afc892eebe75054831e
+- type: subscribe
+  options:
+    url: https://nekoneko.cloud/subscribe/4a4d4c80-4bd1-11eb-89e2-b1937530e5b7
+- type: subscribe
+  options:
+    url: https://acrosscloud.icu//link/zuGvQj5PkKucpVP9?sub=1
+#订阅
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -87,6 +106,9 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+- type: clash
+  options:
+    url: https://suo.yt/vcQXNNo
 
 # 某个网站抓取
 - type: web-freessrxyz
