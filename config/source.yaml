@@ -89,7 +89,25 @@
     url: http://proxypool.turinglabs.net/upload/daily/shadowsocks
 - type: subscribe
   options:
-    url: http://proxypool.turinglabs.net/upload/daily/v2ray    
+    url: http://proxypool.turinglabs.net/upload/daily/v2ray
+- type: subscribe
+  options:
+    url: https://www.111003.ml//link/t18NMDfYwZAjdjOL?sub=1
+- type: subscribe
+  options:
+    url: https://www.111003.ml//link/qnX4c3DPZ55rz2bv?sub=1
+- type: subscribe
+  options:
+    url: https://www.111003.ml//link/JcPhNvNhhVYWrMtx?sub=1
+- type: subscribe
+  options:
+    url: https://www.111003.ml//link/EDf0gn24rImopCIV?sub=1
+- type: subscribe
+  options:
+    url: https://www.111003.ml//link/PnMfVArG0k6zV3hd?sub=1
+- type: subscribe
+  options:
+    url: https://www.111003.ml//link/TpPuq3MbtjG3QSBJ?sub=1
 #订阅
 # 网页模糊抓取
 - type: webfuzz
