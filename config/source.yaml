@@ -8,7 +8,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://sagiri.xyz/api/v1/client/subscribe?token=3629ed0a58610dac16b117d14eb848a8
 - type: subscribe
   options:
     url: https://thirsty-galileo-395801.netlify.app
