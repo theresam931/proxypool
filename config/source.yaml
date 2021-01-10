@@ -99,6 +99,9 @@
 - type: subscribe
   options:
     url: https://www.111003.ml//link/TpPuq3MbtjG3QSBJ?sub=1
+- type: subscribe
+  options:
+    url: https://www.q88q.ga/link/xxEsNqPe5yyDKx6W?lt=2
 #订阅
 # 网页模糊抓取
 - type: webfuzz
