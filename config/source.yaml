@@ -130,6 +130,9 @@
 - type: clash
   options:
     url: https://suo.yt/5hbnQsQ   
+- type: clash
+  options:
+    url: https://suo.yt/A3L0jab
 
 # 某个网站抓取
 - type: web-freessrxyz
