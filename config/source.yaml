@@ -102,6 +102,9 @@
 - type: subscribe
   options:
     url: https://www.q88q.ga/link/xxEsNqPe5yyDKx6W?lt=2
+- type: subscribe
+  options:
+    url: https://sketch.ide.wtf/OaksOwks
 #订阅
 # 网页模糊抓取
 - type: webfuzz
