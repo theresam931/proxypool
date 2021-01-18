@@ -105,6 +105,9 @@
 - type: subscribe
   options:
     url: https://sketch.ide.wtf/OaksOwks
+- type: subscribe
+  options:
+    url: http://www.forestjiasu.xyz/link/qTaWd5f6HNVKnk1k?mu=0
 #订阅
 # 网页模糊抓取
 - type: webfuzz
