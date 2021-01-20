@@ -108,6 +108,9 @@
 - type: subscribe
   options:
     url: http://www.forestjiasu.xyz/link/qTaWd5f6HNVKnk1k?mu=0
+- type: subscribe
+  options:
+    url: https://sub.tomato91.cc/api/v1/client/subscribe?token=eafc52714775c7ded242c1c5e4232085
 #订阅
 # 网页模糊抓取
 - type: webfuzz
