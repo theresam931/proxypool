@@ -5,6 +5,9 @@
 - type: webfuzzsub
   options:
     url: http://proxypool.turinglabs.net/upload/daily/shadowsocks
+- type: webfuzzsub
+  options:
+    url: https://cdn.jsdelivr.net/gh/fdaf123/KinhDown-dingyue/README.md
 # 订阅链接
 - type: subscribe
   options:
@@ -111,6 +114,9 @@
 - type: subscribe
   options:
     url: https://sub.tomato91.cc/api/v1/client/subscribe?token=eafc52714775c7ded242c1c5e4232085
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/fdaf123/KinhDown-dingyue/README.md
 #订阅
 # 网页模糊抓取
 - type: webfuzz
