@@ -117,6 +117,9 @@
 - type: subscribe
   options:
     url: https://cdn.jsdelivr.net/gh/fdaf123/KinhDown-dingyue/README.md
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/clash/proxies
 #订阅
 # 网页模糊抓取
 - type: webfuzz
@@ -148,6 +151,9 @@
 - type: clash
   options:
     url: https://suo.yt/A3L0jab
+    - type: subscribe
+  options:
+    url: https://proxypoolss.tk/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz
