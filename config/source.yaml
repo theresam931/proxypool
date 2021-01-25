@@ -120,6 +120,12 @@
 - type: subscribe
   options:
     url: https://proxypoolss.tk/clash/proxies
+- type: subscribe
+  options:
+    url: https://sub.hxlm9527.xyz/api/v1/client/subscribe?token=464be60aa5ebe5b474c8bbfe0b82f848
+- type: subscribe
+  options:
+    url: https://sugur.ml/link/OnM8YX1YjNFYSEKB?sub=4
 #订阅
 # 网页模糊抓取
 - type: webfuzz
