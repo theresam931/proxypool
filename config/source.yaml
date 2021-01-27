@@ -160,6 +160,9 @@
 - type: clash
   options:
     url: https://proxypoolss.tk/clash/proxies
+- type: clash
+  options:
+    url: https://suo.yt/SzORaCJ
 
 # 某个网站抓取
 - type: web-freessrxyz
