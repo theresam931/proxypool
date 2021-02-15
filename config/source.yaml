@@ -86,6 +86,15 @@
     url: http://proxypool.turinglabs.net/upload/daily/v2ray
 - type: subscribe
   options:
+    url: https://jj-rss-01.best/link/hdgQoZAinkcQIqeD
+- type: subscribe
+  options:
+    url: https://jj-rss-01.best/link/NpCpiS5WwgsezWYk
+- type: subscribe
+  options:
+    url: https://jj-rss-01.best/link/ImP43MEdHVFyo8z7
+- type: subscribe
+  options:
     url: https://www.111003.ml//link/t18NMDfYwZAjdjOL?sub=1
 - type: subscribe
   options:
