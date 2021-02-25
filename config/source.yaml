@@ -171,6 +171,9 @@
 - type: subscribe
   options:
     url: https://v2.ymcb.net/api/v1/client/subscribe?token=11f4c0be3cf4970c5b40c26929ca4ca9
+- type: subscribe
+  options:
+    url: https://sub.xn--9kq61slq0c.com/api/v1/client/subscribe?token=ced2e5c48bdb87c1b048c4dd991680fe
 #订阅
 # 网页模糊抓取
 - type: webfuzz
