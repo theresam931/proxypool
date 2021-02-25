@@ -135,7 +135,9 @@
 - type: subscribe
   options:
     url: https://sugur.ml/link/OnM8YX1YjNFYSEKB?sub=4
-    
+- type: subscribe
+  options:
+    url: https://www.mojie.me/api/v1/client/subscribe?token=63f11e529726797302dee18ee36f41c8
 - type: subscribe
   options:
     url: https://losadhwselfff2332dasd.xyz/link/BqD7MpaLWs6bOuu5?sub=1
