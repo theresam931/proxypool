@@ -151,7 +151,24 @@
 - type: subscribe
   options:
     url: https://losadhwselfff2332dasd.xyz/link/E44QpUctNcW2193S?sub=2
-
+- type: subscribe
+  options:
+    url: https://lmout.xyz/api/v1/client/subscribe?token=cf063cca20eba23d8735fb3a63d17b91
+- type: subscribe
+  options:
+    url: https://sub.xn--9kq61slq0c.com/api/v1/client/subscribe?token=f40a0e911a46c207d3845080bbc6db94
+- type: subscribe
+  options:
+    url: https://sockboom.me/link/BFq2I7O4vy6cCKFF?mu=1
+- type: subscribe
+  options:
+    url: https://www.v2dy.co/api/v1/client/subscribe?token=fcf85b76d7894fa5ac5b38b87a70c0ef
+- type: subscribe
+  options:
+    url: https://link.zycsj.net/api/v1/client/subscribe?token=582e1267e1b40f1034c21985a5b58f6c
+- type: subscribe
+  options:
+    url: https://v2.ymcb.net/api/v1/client/subscribe?token=11f4c0be3cf4970c5b40c26929ca4ca9
 #订阅
 # 网页模糊抓取
 - type: webfuzz
